@@ -1,4 +1,4 @@
-package javabasics;
+package _1CommentsPrint;
 
 public class _1LearningComments {
 
