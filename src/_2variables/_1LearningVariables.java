@@ -8,9 +8,9 @@ public class _1LearningVariables {
 		// 1. dataType variableName = value;
 
 		// 2. dataType variableName;
-		// variableName = value;
+		//    variableName = value;
 
-		// DataType: [int, double, boolean, String], long, short, byte, char
+		// DataType: [int, double, boolean, String], long, short, byte, char]
 
 		int num1 = 10;
 		System.out.println(num1);
