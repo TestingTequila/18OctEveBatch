@@ -18,6 +18,7 @@ public class _5ArraysLimitations {
 
 		for (int num : numbers) {
 			System.out.println(num);
+			
 		}
 
 
